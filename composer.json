@@ -9,7 +9,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nijwel\\MakeService\\MakeServiceServiceProvider"
+                "Nijwel\\MakeService\\Providers\\MakeServiceServiceProvider"
             ]
         }
     }
