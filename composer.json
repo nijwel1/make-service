@@ -1,0 +1,16 @@
+{
+    "name": "nijwel/make-service",
+    "description": "A Laravel package for creating service classes",
+    "autoload": {
+        "psr-4": {
+            "nijwel\\MakeSerive\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nijwel\\MakeService\\MakeServiceServiceProvider"
+            ]
+        }
+    }
+}
