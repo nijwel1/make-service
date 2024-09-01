@@ -4,7 +4,7 @@ namespace Nijwel\MakeService\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class MakeServiceServiceProvider extends ServiceProvider {
+class MakeServiceClassServiceProvider extends ServiceProvider {
     /**
      * Register the package's services.
      *
